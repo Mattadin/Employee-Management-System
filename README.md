@@ -1,7 +1,5 @@
 # Employee-Management-System
 
-# Note Taker App
-
 ## The Project
 
 For this project I've created a team profile manager to assist in employee management for small businesses using databases!
