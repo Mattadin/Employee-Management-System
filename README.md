@@ -10,7 +10,7 @@ For this project I've created a team profile manager to assist in employee manag
 
 Simply follow the command line prompts to update and store new information in your database! Feel free to update tables, roles, salaries- all at your convenience through the prompts given!
 
-![screenshot](./assets/)
+![movie](./assets/EmployeeManagementVid.webm)
 
 ## License
 
